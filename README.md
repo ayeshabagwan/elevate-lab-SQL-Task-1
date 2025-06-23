@@ -1,2 +1,17 @@
-LPG Booking System is a MySQL-based database designed to manage gas cylinder bookings, customers, deliveries, and payments.  
-It supports core operations like customer registration, cylinder stock management, and real-time booking tracking.
+Domain:Hotel Management System
+Project Includes
+Database schema creation using MySQL Workbench
+
+ER Diagram design for clear database relationships
+
+SQL Script Reverse Engineering from an existing database
+
+Forward Engineered SQL script to generate schema from the EER diagram
+
+Tools Used
+MySQL Workbench – for modeling and query execution
+
+Forward Engineering Tool – to convert diagrams to executable SQL
+
+GitHub – for version control and project sharing
+
